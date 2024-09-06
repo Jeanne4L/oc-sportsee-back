@@ -63,4 +63,4 @@ This project includes four endpoints that you will be able to use:
 
 # sportsee-front
 
-- `https://github.com/Jeanne4L/oc-sportsee-front`
+[oc-sportsee-front](https://github.com/Jeanne4L/oc-sportsee-front)
